@@ -1,9 +1,9 @@
-# Hey, I'm Maria! Nice to Meet You! <img src="https://miro.medium.com/1*X7Q84nkQN1DiFXC-rQLt9g.gif" width="30px">
+# Hey, I'm Maria! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
 
 <div align="center">
-  <img height="" src="[https://github.com/Grizzlyess/Grizzlyess/blob/main/hello.gif]"  />
+  <img height="" src="https://github.com/Grizzlyess/Grizzlyess/blob/main/hello.gif?raw=true"  />
 </div>
 
 ###
@@ -57,9 +57,9 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  <a href="https://discord.gg/FquJDsyW" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
   
-  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
+  <a href="https://www.linkedin.com/in/maria-clara-batista-8b6001251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BS0wSjPDpSJmIUdERJpGgGA%3D%3D" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
 </div>
 
 ###
