@@ -1,4 +1,4 @@
-# Hey, I'm Maria! Nice to Meet You! <img src="https://github.com/Grizzlyess/Grizzlyess/blob/main/source.gif?raw=true" width="30px">
+# Hey, I'm Maria! Nice to Meet You! <img src="https://github.com/Grizzlyess/Grizzlyess/blob/main/source.gif?raw=true" width="80px">
 
 ###
 
