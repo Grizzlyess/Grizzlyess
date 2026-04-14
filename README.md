@@ -33,25 +33,25 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-   <img src="https://www.pygame.org/docs/_images/pygame_logo.png" height="40" width="52" alt="git logo"  />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" height="500" width="30" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
-   <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" height="40" width="52" alt="git logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/500px-Spring_Boot.svg.png" height="40" width="52" alt="git logo"  />
-  <img src="https://img.icons8.com/color/512/javascript.png" height="40" width="52" alt="git logo"  />
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ef5b715-f42b-4fa6-b85f-cefe8fdb3217/dfesc3w-5ede39c2-a820-416d-8d2b-55dab8784a85.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83ZWY1YjcxNS1mNDJiLTRmYTYtYjg1Zi1jZWZlOGZkYjMyMTcvZGZlc2Mzdy01ZWRlMzljMi1hODIwLTQxNmQtOGQyYi01NWRhYjg3ODRhODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HhALIHuM8RAI5jloLiFsByGkVlUUyyzRQmwfC0b5gXg" height="40" width="52" alt="git logo"  />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAiZAAZAA0" height="40" width="52" alt="git logo"  />
-  <img src="https://staging.svgrepo.com/show/331488/mongodb.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLIsoAHea-BOhRzeFAqp8P9OChYR2Fch6mQ&s" height="40" width="52" alt="git logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40" width="52" alt="git logo"  />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="middle" height="40"alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" align="middle"  height="40"alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" align="middle"  height="40"alt="numpy logo"  />
+   <img src="https://www.pygame.org/docs/_images/pygame_logo.png" align="middle" width="52" height="40"alt="git logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" align="middle"  height="500" width="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40"alt="cplusplus logo" align="middle"   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" align="middle"  height="40"alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align="middle"  height="40"alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" align="middle"  height="40"alt="git logo"  />
+   <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" align="middle"  height="40"alt="git logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/500px-Spring_Boot.svg.png" align="middle"  height="40"alt="git logo"  />
+  <img src="https://img.icons8.com/color/512/javascript.png" height="40"alt="git logo" align="middle"   />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ef5b715-f42b-4fa6-b85f-cefe8fdb3217/dfesc3w-5ede39c2-a820-416d-8d2b-55dab8784a85.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83ZWY1YjcxNS1mNDJiLTRmYTYtYjg1Zi1jZWZlOGZkYjMyMTcvZGZlc2Mzdy01ZWRlMzljMi1hODIwLTQxNmQtOGQyYi01NWRhYjg3ODRhODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HhALIHuM8RAI5jloLiFsByGkVlUUyyzRQmwfC0b5gXg" align="middle"  height="40"alt="git logo"  />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAiZAAZAA0"  align="middle" height="40"alt="git logo"  />
+  <img src="https://staging.svgrepo.com/show/331488/mongodb.svg" align="middle"  height="40"alt="git logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLIsoAHea-BOhRzeFAqp8P9OChYR2Fch6mQ&s" align="middle"  height="40"alt="git logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" align="middle"  height="40"alt="git logo"  />
+</p>
 
 ###
 
