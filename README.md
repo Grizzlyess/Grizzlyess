@@ -40,7 +40,6 @@
    <img src="https://www.pygame.org/docs/_images/pygame_logo.png" align="middle" width="52" height="40"alt="git logo"  />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" align="middle"  height="500" width="30" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40"alt="cplusplus logo" align="middle"   />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" align="middle"  height="40"alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align="middle"  height="40"alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" align="middle"  height="40"alt="git logo"  />
    <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" align="middle"  height="40"alt="git logo"  />
@@ -51,6 +50,7 @@
   <img src="https://staging.svgrepo.com/show/331488/mongodb.svg" align="middle"  height="40"alt="git logo"  />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLIsoAHea-BOhRzeFAqp8P9OChYR2Fch6mQ&s" align="middle"  height="40"alt="git logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" align="middle"  height="40"alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" align="middle"  height="40"alt="arduino logo"  />
 </p>
 
 ###
