@@ -26,6 +26,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grizzlyess&theme=bear" width="750" alt="stats graph"/>
 </div>
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Grizzlyess&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Grizzlyess&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/>
+</div>
+
 ###
 
 <h2 align="center">Techs I Use</h2>
@@ -65,5 +70,4 @@
 </div>
 
 ###
-
 
