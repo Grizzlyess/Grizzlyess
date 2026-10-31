@@ -1,4 +1,4 @@
-# Hey, I'm Maria! Nice to Meet You! <img src="https://github.com/Grizzlyess/Grizzlyess/blob/main/source.gif?raw=true" width="80px">
+# Hey, I'm Maria Clara! Nice to Meet You! <img src="https://github.com/Grizzlyess/Grizzlyess/blob/main/source.gif?raw=true" width="80px">
 
 ###
 
@@ -12,10 +12,17 @@
 
 ###
 
-🤖 I love learning about and Software Engineer and Database.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+<div align="center">
+  <strong>👩‍💻 Software Engineer | Focusing on Machine Learning, Data & MLOps</strong>
+</div>
+
+<br>
+
+Passionate about combining the rigor of **Data Analysis** with **Software Engineering** best practices to build scalable AI pipelines.<br>
+Solid foundation in backend development (Java/Spring Boot), relational/NoSQL databases, and infrastructure (Docker).<br>
+Currently focusing on taking Machine Learning models to production and building robust APIs to serve AI systems.<br>
+Always open to collaborating on data-driven projects, ML deployment, and innovative tech!
+
 ###
 
 <h2 align="center">My Stats</h2>
@@ -68,6 +75,3 @@
   
   <a href="https://www.linkedin.com/in/maria-clara-batista-8b6001251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BS0wSjPDpSJmIUdERJpGgGA%3D%3D" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
 </div>
-
-###
-
